@@ -4,4 +4,6 @@
     <string name="button_send">Daba re</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title">My Application</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
